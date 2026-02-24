@@ -1,13 +1,13 @@
 const firebaseConfig = {
-    apiKey: "PASTE_YOUR_API_KEY_HERE",
-    authDomain: "PASTE_YOUR_AUTH_DOMAIN_HERE",
-    projectId: "PASTE_YOUR_PROJECT_ID_HERE",
-    storageBucket: "PASTE_YOUR_STORAGE_BUCKET_HERE",
-    messagingSenderId: "PASTE_YOUR_SENDER_ID_HERE",
-    appId: "PASTE_YOUR_APP_ID_HERE"
+    apiKey: "AIzaSyDgYruN_oYNoF4_-7465Jq0OFzZrgVG0VY",
+    authDomain: "mini-messenger-selov.firebaseapp.com",
+    projectId: "mini-messenger-selov",
+    storageBucket: "mini-messenger-selov.firebasestorage.app",
+    messagingSenderId: "315254411733",
+    appId: "1:315254411733:web:ce7dee254b5b1a61c0ad5c"
 };
 
-const IMGBB_API_KEY = "PASTE_YOUR_IMGBB_API_KEY_HERE";
+const IMGBB_API_KEY = "cc022c833a3c90d9d7014ad188cf7de4";
 
 firebase.initializeApp(firebaseConfig);
 
